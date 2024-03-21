@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "title": "Grocery Shopping",
+      "description": "Buy groceries for the week including fruits, vegetables, and dairy.",
+      "status": "Incomplete",
+      "dueDate": "2024-03-05",
+      "priority": "High",
+      "notes": "Remember to check pantry for existing supplies."
+    },
+    {
+      "id": 2,
+      "title": "Workout",
+      "description": "Go to the gym for a workout session. Focus on cardio and strength training.",
+      "status": "Complete",
+      "dueDate": "2024-03-06",
+      "priority": "Medium",
+      "notes": "Track progress in workout log."
+    },
+    {
+      "id": 3,
+      "title": "Read a Book",
+      "description": "Finish reading 'The Great Gatsby'. Focus on understanding the characters' development.",
+      "status": "In Progress",
+      "dueDate": "2024-03-07",
+      "priority": "Low",
+      "notes": "Write down thoughts for the book club discussion."
+    }
+  ]
+  
